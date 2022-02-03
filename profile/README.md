@@ -11,3 +11,6 @@
 
 ## Workload orchestration
 - _workload-orchestration_ includes the API for developers to install containers on to MECs
+
+## Ecosystem and Standards
+- _ecosystem_and_standards_ works on an analysis and comparison of MEC APIs and platforms from 3GPP, ETSI, TM Forum, GSMA
