@@ -14,3 +14,11 @@
 
 ## Ecosystem and Standards
 - [ecosystem_and_standards](https://github.com/5gff/ecosystem-and-standards) works on an analysis and comparison of MEC APIs and platforms from 3GPP, ETSI, TM Forum, GSMA
+
+## Notes and discussions
+- [Interoperability demo script](https://github.com/5gff/interoperability-demo-script) lays out a simple demo flow that showcases the interoperatability potential using the edge discovery service API.
+- [Notes on service profile](https://github.com/5gff/service-profile-notes) trys to lead the discussions to bring clarity on the definition of the service profile, its properties, and the intended use.
+- [Notes on network intelligence exposure](https://github.com/5gff/network-intelligence-exposure-notes) collects thoughts on the topic and hope to serve as starters for further discussion.
+
+## SDKs
+- [Verizon Edge Discovary Service Client SDK](https://github.com/5gff/vzeds) is a client SDK written in Go for programmable access to the EDS APIs.
