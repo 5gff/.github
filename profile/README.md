@@ -15,6 +15,9 @@
 ## Ecosystem and Standards
 - [ecosystem_and_standards](https://github.com/5gff/ecosystem-and-standards) works on an analysis and comparison of MEC APIs and platforms from 3GPP, ETSI, TM Forum, GSMA
 
+## Engagement
+- [Engagement](https://github.com/5gff/Engagement) is a workstream to deliver guidance and materials to help external parties learn how to engage with 5GFF
+
 ## Notes and discussions
 - [Interoperability demo script](https://github.com/5gff/interoperability-demo-script) lays out a simple demo flow that showcases the interoperatability potential using the edge discovery service API.
 - [Notes on service profile](https://github.com/5gff/service-profile-notes) trys to lead the discussions to bring clarity on the definition of the service profile, its properties, and the intended use.
