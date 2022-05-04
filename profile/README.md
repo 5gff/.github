@@ -1,7 +1,7 @@
 # About the repositories
 ## APIs
 - [edge-API-spec](https://github.com/5gff/edge-API-spec) is the full experience management API, covering provisioning, discovery, events and notification subscriptions  
-- [Simple-API-Spec](https://github.com/5gff/Simple-API-Spec) is the basic API which just allows discovery of the nearest MEC zone  
+- [Simple-API-Spec](https://github.com/5gff/SimpleAPI) is the basic API which just allows discovery of the nearest MEC zone  
 - See also _workload-orchestration_ below
 
 ## Interoperability Proof of Concept
